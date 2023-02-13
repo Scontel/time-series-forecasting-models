@@ -550,3 +550,4 @@ Commit on 2023-02-10T09:39:41: Update CI/CD pipeline configuration
 Commit on 2023-02-10T13:12:16: Update README with installation instructions
 Commit on 2023-02-10T17:59:56: Fix edge case in input validation
 Commit on 2023-02-13T17:55:07: Update CI/CD pipeline configuration
+Commit on 2023-02-13T15:42:48: Add support for distributed training
