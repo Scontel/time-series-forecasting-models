@@ -585,3 +585,4 @@ Commit on 2023-03-01T16:19:47: Add support for distributed training
 Commit on 2023-03-01T15:34:58: Add support for distributed training
 Commit on 2023-03-02T15:56:25: Fix minor bug in data processing
 Commit on 2023-03-02T09:49:58: Update documentation and examples
+Commit on 2023-03-02T18:56:06: Improve memory management during inference
