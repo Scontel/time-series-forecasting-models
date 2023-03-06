@@ -590,3 +590,4 @@ Commit on 2023-03-02T19:06:09: Update documentation and examples
 Commit on 2023-03-03T12:55:46: Add configuration options for hyperparameters
 Commit on 2023-03-06T13:51:25: Enhance visualization of results
 Commit on 2023-03-06T12:49:04: Add configuration options for hyperparameters
+Commit on 2023-03-06T13:36:11: Integrate new data source for training
