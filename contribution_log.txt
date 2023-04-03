@@ -631,3 +631,4 @@ Commit on 2023-03-30T11:25:32: Update dependencies to latest versions
 Commit on 2023-03-30T15:14:14: Add configuration options for hyperparameters
 Commit on 2023-03-31T13:55:30: Add unit tests for new features
 Commit on 2023-03-31T19:52:00: Add support for distributed training
+Commit on 2023-04-03T10:03:49: Update documentation and examples
