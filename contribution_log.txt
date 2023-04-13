@@ -645,3 +645,4 @@ Commit on 2023-04-07T16:38:55: Implement new algorithm for data augmentation
 Commit on 2023-04-11T19:14:14: Fix edge case in input validation
 Commit on 2023-04-11T10:13:38: Fix edge case in input validation
 Commit on 2023-04-11T09:12:08: Improve memory management during inference
+Commit on 2023-04-13T10:51:17: Add unit tests for new features
