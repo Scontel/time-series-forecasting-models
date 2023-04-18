@@ -651,3 +651,4 @@ Commit on 2023-04-14T11:32:54: Clean up code and remove unused imports
 Commit on 2023-04-14T15:37:44: Improve memory management during inference
 Commit on 2023-04-17T14:30:02: Add configuration options for hyperparameters
 Commit on 2023-04-18T10:38:41: Fix minor bug in data processing
+Commit on 2023-04-18T19:44:49: Fix minor bug in data processing
