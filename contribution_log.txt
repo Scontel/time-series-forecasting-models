@@ -723,3 +723,4 @@ Commit on 2023-06-12T19:24:58: Add support for distributed training
 Commit on 2023-06-12T14:01:39: Refactor core logic for better performance
 Commit on 2023-06-12T09:39:07: Optimize model training loop
 Commit on 2023-06-12T18:37:07: Update documentation and examples
+Commit on 2023-06-12T11:55:07: Improve memory management during inference
