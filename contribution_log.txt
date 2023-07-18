@@ -770,3 +770,4 @@ Commit on 2023-07-13T14:01:20: Add support for distributed training
 Commit on 2023-07-14T13:36:14: Fix minor bug in data processing
 Commit on 2023-07-18T09:54:26: Update README with installation instructions
 Commit on 2023-07-18T13:25:01: Improve error handling and logging
+Commit on 2023-07-18T16:11:56: Improve error handling and logging
