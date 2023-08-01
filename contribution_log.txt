@@ -798,3 +798,4 @@ Commit on 2023-07-31T12:02:01: Clean up code and remove unused imports
 Commit on 2023-07-31T10:24:59: Update documentation and examples
 Commit on 2023-08-01T16:36:15: Enhance visualization of results
 Commit on 2023-08-01T15:22:28: Add configuration options for hyperparameters
+Commit on 2023-08-01T10:18:55: Fix minor bug in data processing
