@@ -831,3 +831,4 @@ Commit on 2023-08-24T12:55:46: Implement new algorithm for data augmentation
 Commit on 2023-08-24T09:23:08: Clean up code and remove unused imports
 Commit on 2023-08-24T13:20:32: Add support for distributed training
 Commit on 2023-08-24T19:42:57: Enhance security measures for API endpoints
+Commit on 2023-08-28T14:25:50: Update README with installation instructions
