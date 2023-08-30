@@ -838,3 +838,4 @@ Commit on 2023-08-29T18:34:58: Update documentation and examples
 Commit on 2023-08-30T18:06:48: Update documentation and examples
 Commit on 2023-08-30T18:43:58: Optimize model training loop
 Commit on 2023-08-30T14:49:46: Update dependencies to latest versions
+Commit on 2023-08-30T18:23:35: Improve memory management during inference
