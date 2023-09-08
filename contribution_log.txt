@@ -847,3 +847,4 @@ Commit on 2023-09-06T09:10:36: Enhance security measures for API endpoints
 Commit on 2023-09-07T14:57:36: Enhance security measures for API endpoints
 Commit on 2023-09-07T12:17:51: Optimize database queries for faster retrieval
 Commit on 2023-09-08T14:35:39: Enhance visualization of results
+Commit on 2023-09-08T17:23:56: Update README with installation instructions
