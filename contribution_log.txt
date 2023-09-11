@@ -849,3 +849,4 @@ Commit on 2023-09-07T12:17:51: Optimize database queries for faster retrieval
 Commit on 2023-09-08T14:35:39: Enhance visualization of results
 Commit on 2023-09-08T17:23:56: Update README with installation instructions
 Commit on 2023-09-08T16:59:54: Clean up code and remove unused imports
+Commit on 2023-09-11T17:47:35: Enhance security measures for API endpoints
