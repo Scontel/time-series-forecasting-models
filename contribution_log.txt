@@ -910,3 +910,4 @@ Commit on 2023-10-24T16:45:58: Refactor core logic for better performance
 Commit on 2023-10-25T13:14:10: Implement caching mechanism for frequent requests
 Commit on 2023-10-25T15:11:18: Improve memory management during inference
 Commit on 2023-10-26T15:39:10: Fix edge case in input validation
+Commit on 2023-10-26T16:31:03: Update documentation and examples
