@@ -9,3 +9,4 @@ Commit on 2024-11-07T12:01:22: Improve error handling and logging
 Commit on 2024-11-08T17:28:45: Add configuration options for hyperparameters
 Commit on 2024-11-13T12:57:00: Update dependencies to latest versions
 Commit on 2024-11-14T18:19:21: Improve error handling and logging
+Commit on 2024-11-15T09:11:56: Add support for distributed training
