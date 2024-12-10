@@ -27,3 +27,4 @@ Commit on 2024-12-03T17:03:18: Enhance visualization of results
 Commit on 2024-12-04T16:04:25: Fix minor bug in data processing
 Commit on 2024-12-05T12:04:40: Improve error handling and logging
 Commit on 2024-12-09T09:11:46: Update README with installation instructions
+Commit on 2024-12-10T09:14:27: Add configuration options for hyperparameters
