@@ -53,3 +53,4 @@ Commit on 2024-12-27T14:52:54: Update dependencies to latest versions
 Commit on 2024-12-27T14:28:36: Clean up code and remove unused imports
 Commit on 2024-12-30T11:55:21: Update documentation and examples
 Commit on 2024-12-31T11:53:31: Update README with installation instructions
+Commit on 2025-01-02T17:37:09: Improve error handling and logging
