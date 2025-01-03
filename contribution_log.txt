@@ -55,3 +55,4 @@ Commit on 2024-12-30T11:55:21: Update documentation and examples
 Commit on 2024-12-31T11:53:31: Update README with installation instructions
 Commit on 2025-01-02T17:37:09: Improve error handling and logging
 Commit on 2025-01-02T10:50:06: Improve memory management during inference
+Commit on 2025-01-03T15:18:03: Clean up code and remove unused imports
