@@ -93,3 +93,4 @@ Commit on 2025-02-07T16:12:46: Enhance visualization of results
 Commit on 2025-02-11T15:23:07: Optimize model training loop
 Commit on 2025-02-11T09:38:56: Update README with installation instructions
 Commit on 2025-02-12T10:56:17: Update documentation and examples
+Commit on 2025-02-13T17:50:26: Clean up code and remove unused imports
