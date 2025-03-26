@@ -124,3 +124,4 @@ Commit on 2025-03-20T14:07:57: Clean up code and remove unused imports
 Commit on 2025-03-21T11:16:19: Improve memory management during inference
 Commit on 2025-03-24T11:42:50: Optimize model training loop
 Commit on 2025-03-26T11:54:29: Update README with installation instructions
+Commit on 2025-03-26T11:56:19: Improve error handling and logging
