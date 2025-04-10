@@ -140,3 +140,4 @@ Commit on 2025-04-09T13:42:19: Update README with installation instructions
 Commit on 2025-04-09T17:07:21: Add unit tests for new features
 Commit on 2025-04-09T11:22:53: Enhance visualization of results
 Commit on 2025-04-10T12:21:22: Add unit tests for new features
+Commit on 2025-04-10T16:58:16: Clean up code and remove unused imports
