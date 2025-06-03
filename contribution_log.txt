@@ -200,3 +200,4 @@ Commit on 2025-05-29T15:24:49: Update README with installation instructions
 Commit on 2025-05-30T09:32:49: Add unit tests for new features
 Commit on 2025-06-02T09:12:12: Enhance visualization of results
 Commit on 2025-06-03T12:02:34: Enhance visualization of results
+Commit on 2025-06-03T18:38:00: Improve error handling and logging
