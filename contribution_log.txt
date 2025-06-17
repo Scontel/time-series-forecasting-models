@@ -206,3 +206,4 @@ Commit on 2025-06-12T14:48:07: Clean up code and remove unused imports
 Commit on 2025-06-12T16:08:59: Clean up code and remove unused imports
 Commit on 2025-06-12T10:25:19: Optimize model training loop
 Commit on 2025-06-16T18:29:05: Add configuration options for hyperparameters
+Commit on 2025-06-17T09:10:43: Add unit tests for new features
