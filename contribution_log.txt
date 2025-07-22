@@ -236,3 +236,4 @@ Commit on 2025-07-11T17:00:57: Fix edge case in input validation
 Commit on 2025-07-15T15:08:52: Update README with installation instructions
 Commit on 2025-07-17T18:37:39: Add configuration options for hyperparameters
 Commit on 2025-07-21T09:13:11: Add unit tests for new features
+Commit on 2025-07-22T14:03:43: Clean up code and remove unused imports
