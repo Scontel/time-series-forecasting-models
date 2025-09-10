@@ -285,3 +285,4 @@ Commit on 2025-09-08T16:39:18: Add unit tests for new features
 Commit on 2025-09-08T10:52:02: Add unit tests for new features
 Commit on 2025-09-08T10:20:55: Clean up code and remove unused imports
 Commit on 2025-09-10T15:56:58: Enhance visualization of results
+Commit on 2025-09-10T13:12:24: Improve memory management during inference
