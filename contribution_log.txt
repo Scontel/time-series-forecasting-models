@@ -292,3 +292,4 @@ Commit on 2025-09-11T15:51:44: Clean up code and remove unused imports
 Commit on 2025-09-11T14:50:53: Update documentation and examples
 Commit on 2025-09-15T10:30:15: Enhance visualization of results
 Commit on 2025-09-15T10:11:38: Refactor core logic for better performance
+Commit on 2025-09-16T11:39:02: Update README with installation instructions
