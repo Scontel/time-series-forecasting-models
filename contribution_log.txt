@@ -298,3 +298,4 @@ Commit on 2025-09-17T11:58:03: Add unit tests for new features
 Commit on 2025-09-19T18:30:42: Enhance visualization of results
 Commit on 2025-09-19T10:48:10: Clean up code and remove unused imports
 Commit on 2025-09-22T10:27:37: Add unit tests for new features
+Commit on 2025-09-22T12:54:33: Update documentation and examples
