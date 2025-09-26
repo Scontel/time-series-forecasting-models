@@ -300,3 +300,4 @@ Commit on 2025-09-19T10:48:10: Clean up code and remove unused imports
 Commit on 2025-09-22T10:27:37: Add unit tests for new features
 Commit on 2025-09-22T12:54:33: Update documentation and examples
 Commit on 2025-09-25T12:55:48: Optimize model training loop
+Commit on 2025-09-26T15:45:26: Update README with installation instructions
