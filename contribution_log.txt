@@ -377,3 +377,4 @@ Commit on 2025-12-22T17:25:40: Add support for distributed training
 Commit on 2025-12-23T16:07:59: Fix edge case in input validation
 Commit on 2025-12-26T18:30:40: Update dependencies to latest versions
 Commit on 2025-12-29T17:17:14: Improve error handling and logging
+Commit on 2025-12-31T10:51:02: Improve error handling and logging
