@@ -380,3 +380,4 @@ Commit on 2025-12-29T17:17:14: Improve error handling and logging
 Commit on 2025-12-31T10:51:02: Improve error handling and logging
 Commit on 2026-01-05T15:49:49: Add unit tests for new features
 Commit on 2026-01-05T15:55:46: Add configuration options for hyperparameters
+Commit on 2026-01-05T18:09:29: Improve memory management during inference
