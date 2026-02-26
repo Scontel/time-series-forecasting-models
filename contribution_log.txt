@@ -438,3 +438,4 @@ Commit on 2026-02-24T14:45:52: Clean up code and remove unused imports
 Commit on 2026-02-25T11:45:50: Refactor core logic for better performance
 Commit on 2026-02-25T18:37:07: Refactor core logic for better performance
 Commit on 2026-02-26T15:57:12: Optimize model training loop
+Commit on 2026-02-26T15:42:54: Fix edge case in input validation
