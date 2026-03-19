@@ -460,3 +460,4 @@ Commit on 2026-03-17T09:40:32: Add configuration options for hyperparameters
 Commit on 2026-03-18T13:10:50: Optimize model training loop
 Commit on 2026-03-19T16:02:39: Optimize model training loop
 Commit on 2026-03-19T13:23:53: Improve error handling and logging
+Commit on 2026-03-19T17:14:29: Fix edge case in input validation
