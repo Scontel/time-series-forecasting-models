@@ -467,3 +467,4 @@ Commit on 2026-03-20T13:38:45: Fix minor bug in data processing
 Commit on 2026-03-23T18:22:13: Update dependencies to latest versions
 Commit on 2026-03-24T14:30:24: Fix edge case in input validation
 Commit on 2026-03-24T15:44:57: Update README with installation instructions
+Commit on 2026-03-25T11:46:14: Improve error handling and logging
